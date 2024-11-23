@@ -5,7 +5,7 @@ I'm Thibault from France, and I am a web development student for Master's degree
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultyvd&hide=css,hack,html,shell&hide_progress=true&layout=compact&langs_count=10)]
 
 ## Currently ...
-- 📘 Preparing Master's degree at Doranco
+- 📘 Preparing Master's degree at Doranco; learning project management and Artificial Intelligence
 - 🧪 Working as .NET Developer at ITGA
 - 📇 Scrum Master for [DevsAreAlsoHumans](https://github.com/DevsAreAlsoHumans) organization
 
