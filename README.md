@@ -12,5 +12,6 @@ Skills: JS / C# / .NET
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thibaultyvd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thibault-yvard/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ThibaultYVD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thibault-yvard.fr)  
 
-Thank you for visiting my profile, see you soon 👋
-![](https://komarev.com/ghpvc/?username=thibaultyvd)
+Thank you for visiting my profile, see you soon ! 👋
+
+![](https://komarev.com/ghpvc/?username=thibaultyvd&color=blue&style=for-the-badge)
