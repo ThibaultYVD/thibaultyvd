@@ -7,7 +7,7 @@ Dev skills: JS / C# / .NET
 
 - 🌱 I’m currently learning Python, agile protocol 
 - 📫 How to reach me: thibaultyvard01@gmail.com
-- Scrum Master for ![DevsAreAlsoHumans Organization](https://github.com/DevsAreAlsoHumans)
+- Scrum Master for [DevsAreAlsoHumans Organization](https://github.com/DevsAreAlsoHumans)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thibaultyvd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thibault-yvard/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ThibaultYVD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thibault-yvard.fr)  
