@@ -15,6 +15,6 @@ I'm Thibault from France, and I am a web development student for Master's degree
 ---
 Thank you for visiting my profile, see you soon! 👋
 
-📧 You can reach me at [thibaultyvard01@gmail.com]()
+📧 You can reach me at [contact@thibault-yvard.fr]()
 
 ![](https://komarev.com/ghpvc/?username=thibaultyvd&color=blue&style=for-the-badge)
